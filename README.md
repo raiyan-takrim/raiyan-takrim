@@ -25,10 +25,10 @@ I'm a Computer Science (Software Engineering) student at **University of Malaya*
 
 My primary focus is **backend engineering** — designing clean API contracts, writing concurrency-safe systems, and building software that holds up under real load. I care about correctness, not just functionality.
 
-- 🔭 Currently building: [TripBuddy API](https://github.com/raiyan-takrim/trip-buddy) — an intercity bus reservation backend with pessimistic locking to eliminate double-booking
-- 🌱 Interests: Backend Systems · Computer Networks · Network & Web Security · Startups
-- 📍 Based in Kuala Lumpur, Malaysia
-- 🗣️ Languages: English (Fluent) · Bahasa Malaysia (Conversational)
+- Currently building: [TripBuddy API](https://github.com/raiyan-takrim/trip-buddy) — an intercity bus reservation backend with pessimistic locking to eliminate double-booking
+- Interests: Backend Systems · Computer Networks · Network & Web Security · Startups
+- Based in Kuala Lumpur, Malaysia
+- Languages: English (Fluent) · Bahasa Malaysia (Conversational)
 
 ---
 
